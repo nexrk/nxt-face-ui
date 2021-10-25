@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string-array name="dialog_chooser">
+        <item> @string/camera </item>
+        <item> @string/gallery </item>
+    </string-array>
+    <string name="camera">camera</string>
+    <string name="gallery">gallery</string>
+</resources>
